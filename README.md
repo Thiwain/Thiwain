@@ -6,6 +6,17 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
+### Skills
+
+| Category              | Skills                                                                                         |
+|-----------------------|------------------------------------------------------------------------------------------------|
+| Languages             | `Java`, `JavaScript`, `PHP`, `C++`                                                             |
+| Web Development       | `HTML`, `CSS`, `React`, `Node.js`, `Spring Boot`, `PHP`                                        |
+| Databases             | `MongoDB`, `MySQL`, `SQL`                                                                      |
+| Tools & Technologies  | `Git`, `GitHub`, `REST APIs`, `TypeScript`                             |
+| Frameworks & Libraries| `MERN Stack`, `JavaMailSender`                                                       |
+
+
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
