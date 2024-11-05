@@ -14,5 +14,5 @@
 | Web Development       | `HTML`, `CSS`, `React`, `Node.js`, `Spring Boot`, `PHP`                                        |
 | Databases             | `MongoDB`, `MySQL`, `SQL`                                                                      |
 | Tools & Technologies  | `Git`, `GitHub`, `REST APIs`, `TypeScript`                             |
-| Frameworks & Libraries| `MERN Stack`, `JavaMailSender`                                                       |
+| Frameworks & Libraries| `MERN Stack`,                                                    |
 
