@@ -10,7 +10,7 @@
 
 | Category              | Skills                                                                                         |
 |-----------------------|------------------------------------------------------------------------------------------------|
-| Languages             | `Java`, `JavaScript`, `PHP`, `C++`                                                             |
+| Languages             | `Java`, `JavaScript`, `PHP`,                                                                   |
 | Web Development       | `HTML`, `CSS`, `React`, `Node.js`, `Spring Boot`, `PHP`                                        |
 | Databases             | `MongoDB`, `MySQL`, `SQL`                                                                      |
 | Tools & Technologies  | `Git`, `GitHub`, `REST APIs`, `TypeScript`                             |
