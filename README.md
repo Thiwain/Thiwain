@@ -1,6 +1,6 @@
 <div align="center">
 
-#### Thiwain Medagama
+### Thiwain Medagama
 
 - Tech explorer and code enthusiast, always up for a new challenge and a fun project!
 
