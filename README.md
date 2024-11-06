@@ -1,9 +1,11 @@
+<div align="center">
 
 #### Thiwain Medagama
 
 - Tech explorer and code enthusiast, always up for a new challenge and a fun project!
 
 ----
+
 [![Portfolio](https://img.shields.io/badge/🐼-Portfolio-%23E4405F.svg?logo=Portfoliod&logoColor=white)](https://www.thiwain.com/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thiwain.m) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/thiwain-medagama) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ThiwainM) 
 
 ----
@@ -14,11 +16,13 @@
 
 ----
 
-<div style="display: flex; align-items: center;">
-    <img src="https://images.credly.com/size/340x340/images/8d67bbf4-128b-4141-b5f1-1bc61bbfbaa6/image.png" alt="AWS Cloud Compute 101 Badge" width="120px">
-    <img src="https://images.credly.com/size/340x340/images/5bf37709-4b69-4cdc-9edc-af7b3370d427/image.png" alt="Getting Started with AWS Storage Badge" width="120px">
+<div style="display: flex; justify-content: center; gap: 10px;">
+    <img src="https://images.credly.com/size/340x340/images/8d67bbf4-128b-4141-b5f1-1bc61bbfbaa6/image.png" alt="AWS Cloud Compute 101 Badge" width="110px">
+    <img src="https://images.credly.com/size/340x340/images/5bf37709-4b69-4cdc-9edc-af7b3370d427/image.png" alt="Getting Started with AWS Storage Badge" width="110px">
 </div>
 
 ----
 
 [![](https://visitcount.itsvg.in/api?id=Thiwain&icon=0&color=0)](https://visitcount.itsvg.in)
+
+</div>
