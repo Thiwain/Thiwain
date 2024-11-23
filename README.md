@@ -8,7 +8,10 @@
 
 ### Socials 📱
 
-[![Portfolio](https://img.shields.io/badge/🐼-Portfolio-%23E4405F.svg?logo=Portfoliod&logoColor=white)](https://www.thiwain.com/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thiwain.m) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/thiwain-medagama) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ThiwainM) 
+[![Portfolio](https://img.shields.io/badge/🐼-Portfolio-%23E4405F.svg?logo=Portfoliod&logoColor=white)](https://www.thiwain.com/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/thiwain-medagama) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ThiwainM) 
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-%23F58025.svg?logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/25662342/thiwain-medagama) [![Medium](https://img.shields.io/badge/Medium-%23000000.svg?logo=medium&logoColor=white)](https://medium.com/@thiwainm) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thiwain.m)
+
+
 
 ----
 
