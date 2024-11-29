@@ -22,7 +22,7 @@
 
 ----
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/thiwainM?ext=contest)
+<img src="https://leetcard.jacoblin.cool/thiwainM?ext=contest" alt="LeetCode Stats" width="350">
 
 ----
 
