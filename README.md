@@ -29,6 +29,7 @@
     <img src="https://images.credly.com/size/340x340/images/8d67bbf4-128b-4141-b5f1-1bc61bbfbaa6/image.png" alt="AWS Cloud Compute 101 Badge" width="110px">
     <img src="https://images.credly.com/size/340x340/images/5bf37709-4b69-4cdc-9edc-af7b3370d427/image.png" alt="Getting Started with AWS Storage Badge" width="110px">
     <img src="https://images.credly.com/size/110x110/images/9358115e-ead7-47c2-91e2-165b6a650a1b/image.png" alt="Getting Started with AWS Storage Badge" width="110px">
+    <img src="https://images.credly.com/size/340x340/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png" alt="Getting Started with AWS Storage Badge" width="110px">
 </div> 
 <!--<details>
   <summary style="font-size: 18px; font-weight: bold; cursor: pointer;">Show Badges</summary>
